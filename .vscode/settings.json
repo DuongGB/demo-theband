@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.exe": "",
+        "stdio.h": "c",
+        "math.h": "c",
+        "kiemtrathuongki3": "c",
+        "limits": "c",
+        "cmath": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
